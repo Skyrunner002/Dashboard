@@ -11,7 +11,7 @@ export const environment = {
   version: 'v0.2.2b',
   botOwnerId: '218459216145285121',
   test: {
-    guildId: '685862664223850497'
+    guildId: '762340448319700992'
   }
 };
 
